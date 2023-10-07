@@ -8,7 +8,7 @@ I'm passionate about Innovation, Technology and Engineering. PMP Certified, SCRU
 
 - 📝 I regularly write articles on [https://luismaroto.com](https://luismaroto.com)
 
-- 💬 Ask me about **HTML, CSS, Python, BASH,**
+- 💬 Ask me about **html, css, python, bash, sql, linux**
 
 - 📫 How to reach me **<ldmaroto@gmail.com>**
 
