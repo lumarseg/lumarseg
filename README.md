@@ -4,9 +4,9 @@ I'm passionate about Innovation, Technology and Engineering. PMP Certified, SCRU
 
 - 🌱 I’m currently learning **AWS Cloud Computing, Data Analytics and SRE.**
 
-- 👨‍💻 All of my projects are available at [https://luismaroto.com](https://luismaroto.com)
+- 👨‍💻 All of my projects are available at [https://luismaroto.com](https://luismaroto.com/#projects)
 
-- 📝 I regularly write articles on [https://luismaroto.com](https://luismaroto.com)
+- 📝 I regularly write articles on [https://luismaroto.com](https://luismaroto.com/#blog)
 
 - 💬 Ask me about **html, css, python, bash, sql, linux**
 
