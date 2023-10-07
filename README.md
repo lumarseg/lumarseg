@@ -30,4 +30,6 @@ I'm passionate about Innovation, Technology and Engineering. PMP Certified, SCRU
 
 ## Happy Digital Upskiling
 
-![Logo](https://luismaroto-wpmedia.s3.amazonaws.com/wp-content/uploads/2023/08/04183433/route_up.png)
+<div style="text-align: center;">
+  ![Logo](https://luismaroto-wpmedia.s3.amazonaws.com/wp-content/uploads/2023/08/04183433/route_up.png)
+</div>
