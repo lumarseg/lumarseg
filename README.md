@@ -10,7 +10,7 @@ I'm passionate about Innovation, Technology and Engineering. PMP Certified, SCRU
 
 - 💬 Ask me about **html, css, python, bash, sql, linux**
 
-- 📫 How to reach me **<ldmaroto@gmail.com>**
+- 📫 How to reach me [https://luismaroto.com](https://luismaroto.com/#contact)
 
 - ⚡ Fun fact **Aviation, astronomy, cycling, swimming.**
 
